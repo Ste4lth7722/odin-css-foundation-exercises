@@ -1,0 +1,11 @@
+/* Comment in css */
+/* Descendant combinators are made by having a space between classes. */
+
+/* Only p elements that are descendants of a div element get this. */
+/* Could have done .container .text { } but I prefer this */
+div p {
+    background-color: rgb(255, 230, 0);
+    color: rgb(255, 25, 25);
+    font-size: 20px;
+    text-align: center;
+}
