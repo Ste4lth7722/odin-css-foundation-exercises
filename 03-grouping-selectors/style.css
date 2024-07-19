@@ -1,0 +1,13 @@
+.black-bg {
+    background-color: rgb(10, 10, 10);
+    color: rgb(240, 240, 240)
+}
+
+.yellow-bg {
+    background-color: rgb(255, 237, 70);
+}
+
+.button-font {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
